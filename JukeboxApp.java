@@ -3,10 +3,6 @@ package jukeboxapplication;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Michelle
- */
 public class JukeboxApp 
 {
     public static void showMenu()
