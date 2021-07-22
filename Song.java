@@ -1,8 +1,5 @@
 package jukeboxapplication;
-/**
- *
- * @author Michelle
- */
+
 public class Song 
 {
     private String title;
