@@ -2,10 +2,6 @@ package jukeboxapplication;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Michelle
- */
 public class Jukebox 
 {
     private String name;
